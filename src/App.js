@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    ELMANBAKI DIGITAL  
+    page d'accueil  
   </div>
   );
 }
