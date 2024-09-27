@@ -1,8 +1,8 @@
 const Header = () => {
     return (
       <header>
-        <h1>Logo</h1>
-        <img src="path_to_logo.png" alt="" />
+        <h1>Logo H1</h1>
+        <img src="/page/Logo.png" alt="" />
         
       </header>
     );
